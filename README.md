@@ -4,8 +4,8 @@ and it is a program that helps create YUV datasets in various environments, incl
 
 # Preparation & Installation
 > 1. After downloading the clone or zip file, save it in the local folder.
-> 2. After moving to the directory (cd local_root/), put the compressed .mp4 file  
-> according to the H.264/H.265 Planar (if it exists) in the 8bit_420 and 10bit_420 directories inside the directory.
+> 2. After moving into Clone Directory, put the .mp4 file, which is compressed by  
+> H.264 or H.265 format, into the corresponding directory, either 8bit_420 or 10bit_420.
 > 3. Compile
 
 # Run & Test
