@@ -1,5 +1,5 @@
 # MP4TOYUV
-MP4TOYUV is one of the preprocessing processes of the [ Video super resolution](https://github.com) project,  
+MP4TOYUV is one of the preprocessing processes of the [ Video super resolution](https://github.com/Hyunmin-jasper-Cho/VideoSuperResolution) project,  
 and it is a program that helps create YUV datasets in various environments, including the CTC environment.
 
 # Preparation & Installation
