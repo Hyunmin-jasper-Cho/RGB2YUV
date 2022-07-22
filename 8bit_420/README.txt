@@ -1,2 +1,2 @@
-# Place .mp4 file which is compressed using "H.264" format. 
+# Place .mp4 file
 ## (8bit 420)
