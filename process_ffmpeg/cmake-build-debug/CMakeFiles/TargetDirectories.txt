@@ -1,3 +1,0 @@
-/Volumes/T7/YUV_Sequence/TVD/Tencent_Video_Dataset/Video/process_ffmpeg/cmake-build-debug/CMakeFiles/process_ffmpeg.dir
-/Volumes/T7/YUV_Sequence/TVD/Tencent_Video_Dataset/Video/process_ffmpeg/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/T7/YUV_Sequence/TVD/Tencent_Video_Dataset/Video/process_ffmpeg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
