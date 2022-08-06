@@ -1,6 +1,14 @@
-# MP4TOYUV
-MP4TOYUV is one of the preprocessing processes of the [ YUV Super Resolution ](https://github.com/Hyunmin-jasper-Cho/YU-VSR) project,  
+# RGB2YUV
+RGBTOYUV is one of the preprocessing processes of the [ YUV Super Resolution ](https://github.com/Hyunmin-jasper-Cho/YU-VSR) project,  
 and it is a program that helps create YUV datasets in various environments, including the CTC environment.
+
+It contains **MP4TOYUV** and **PNG2YUV**,  
+which MP4TOYUV makes .mp4 file into YUV file and  
+PNG2YUV makes .png RGB image file into YUV file.  
+
+**IMPORTANT**  
+When execute the PNG2YUV, you should set the file directory in the code.  
+There are **NO** PARAMETER setting.  
 
 ## Environment 
 > GNU++17
